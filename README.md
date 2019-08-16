@@ -5,9 +5,9 @@ Tôi Nói Gì Khi Nói Về Chạy Bộ
 CÔNG THỨC CHẠY BỘ CỦA DANIELS
 
 
-# Top 10 movi run 
-![alt text](https://raw.githubusercontent.com/ndlong78/running/blob/master/1.png)
-https://raw.githubusercontent.com/ndlong78/running/master/1.png
+# Top 10 movies 
+![Top 10 movies](https://raw.githubusercontent.com/ndlong78/running/master/1.png)
+
 #1 - Chariots of fire (1981)
 
 Bộ phim dựa trên câu chuyện có thật về hai VĐV tham dự Thế vận hội Olympics 1924. Một người là Eric Liddell, một Cơ Đốc nhân người Scotland nhiệt thành sau này trở thành giáo sĩ ở Trung Quốc, người xem chạy bộ như một phần của sự thờ phượng Chúa và từ chối tập luyện hoặc thi đấu vào ngày Sabbath. Người kia là Harold Abrahams, người vượt qua chủ nghĩa bài Do Thái và phân biệt giai cấp, nhưng bỏ bê người yêu của mình là Sybil khi quá tập trung cho sự nghiệp thể thao.
